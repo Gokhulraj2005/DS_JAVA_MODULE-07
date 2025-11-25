@@ -33,8 +33,8 @@ Break the circular connection.
 ```
 /*
 Program to  Right Rotation LinkedList
-Developed by: HARISHKUMAR R
-RegisterNumber: 212223230073
+Developed by: GOKHULRAJ V
+RegisterNumber: 212223230064
 */
 import java.util.Scanner;
 
