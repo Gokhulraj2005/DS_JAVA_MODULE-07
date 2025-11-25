@@ -17,8 +17,8 @@ To write a Java program that removes all nodes from a linked list whose value ma
 ```java
 /*
 program that removes all nodes from a linked list whose value matches a given integer (val) and returns the new head of the modified linked list.
-Developed by: HARISHKUMAR R
-RegisterNumber: 212223230073 
+Developed by: GOKHULRAJ V
+RegisterNumber: 212223230064 
 */
 import java.util.Scanner;
 
