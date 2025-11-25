@@ -19,8 +19,8 @@ If there is no cycle, the program should return null without modifying the linke
 ```java
 /*
 program that removes all nodes from a linked list whose value matches a given integer (val) and returns the new head of the modified linked list.
-Developed by: HARISHKUMAR R
-RegisterNumber: 212223230073
+Developed by: GOKHULRAJ V
+RegisterNumber: 212223230064
 */
 class Node {
     int data;
